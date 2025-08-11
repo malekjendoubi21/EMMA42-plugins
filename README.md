@@ -1,6 +1,6 @@
 # EMMA42 WordPress Plugins
 
-![EMMA42 Plugins](EMMA42-plugins.png)
+![EMMA42 Plugins](EMMA42-plugins.PNG)
 
 <div align="center">
 
@@ -176,7 +176,7 @@ EMMA42-plugins/
 │       ├── widget-why-choose-xpertise.php # Classe du widget
 │       └── style.css                 # Styles CSS
 ├── screenshots/                      # Images pour le README
-│   ├── EMMA42-plugins.png            # Image principale du projet
+│   ├── EMMA42-plugins.PNG            # Image principale du projet
 │   ├── how-it-works-widget.png       # Capture du widget Steps
 │   ├── why-choose-xpertise-widget.png # Capture du widget Xpertise
 │   ├── elementor-editor.png          # Vue dans Elementor
@@ -190,7 +190,7 @@ Pour ajouter des images à votre repository GitHub :
 
 1. **Créez un dossier `screenshots/`** à la racine de votre repository
 2. **Ajoutez vos images** avec les noms suivants :
-   - `EMMA42-plugins.png` - Image principale du projet
+   - `EMMA42-plugins.PNG` - Image principale du projet
    - `how-it-works-widget.png` - Capture du widget Steps
    - `why-choose-xpertise-widget.png` - Capture du widget Xpertise
    - `elementor-editor.png` - Vue dans l'éditeur Elementor
